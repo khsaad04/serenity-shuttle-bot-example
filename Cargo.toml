@@ -1,0 +1,14 @@
+[package]
+name = "serenity-bot-template"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.66"
+serenity = "0.12.0"
+shuttle-runtime = "0.45.0"
+shuttle-serenity = "0.45.0"
+tokio = "1.26.0"
+tracing = "0.1.37"
