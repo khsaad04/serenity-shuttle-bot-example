@@ -13,4 +13,4 @@ To add the bot to a server we need to create an invite link.
 2. Go to the URL Generator via the lefthand panel, and select the `bot` scope as well as the `Send Messages` permission in the Bot Permissions section.
 3. Copy the URL, open it in your browser and select a Discord server you wish to invite the bot to.
 
-For more information please refer to the [Discord docs](https://discord.com/developers/docs/getting-started) as well as the [Poise docs](https://docs.rs/serenity) for more examples.
+For more information please refer to the [Discord docs](https://discord.com/developers/docs/getting-started) as well as the [Serenity docs](https://docs.rs/serenity) for more examples.
