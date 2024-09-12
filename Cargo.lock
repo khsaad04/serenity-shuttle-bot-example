@@ -1631,7 +1631,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "serenity-bot-template"
+name = "serenity-shuttle-bot-example"
 version = "0.1.0"
 dependencies = [
  "anyhow",
